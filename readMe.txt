@@ -1,0 +1,1 @@
+This is a very simple set of exercises to demonstrate the use and syntax of MySQL queries
